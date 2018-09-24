@@ -9,4 +9,8 @@ This resume is created in tableau with data scraped from LinkedIn
 5. Click on "Download your data". You can choose between 2 options to download data provided by LinkedIn
 6. Follow the appropriate steps and your data archive is ready
 
-### 
+### Dashboard
+Explore and play around the data to create a good visual impact of your resume.
+Visit my resume at
+https://public.tableau.com/profile/komal.kalbhor#!/vizhome/Komal_Kalbhor_Tableau_Resume/KomalKalbhorResume
+
